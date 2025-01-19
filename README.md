@@ -32,7 +32,8 @@ A Power BI project focused on HR data for a company facing challenges in compreh
 -Incorporate a visual element indicating the date and time of the last data refresh.
 
 
-Dashboard Interaction HR_Dashboard_image.png
+**Dashboard Interaction**
+-HR_Dashboard_image.png
 
 **Conclusion**
 
