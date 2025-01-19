@@ -2,8 +2,8 @@
 
 A Power BI project focused on HR data for a company facing challenges in comprehending their employee data to extract valuable insights. 
 
-**Dataset used **
--Employee Sample Data.csv
+**Dataset used**
+- Employee Sample Data.csv
 
 **Summary Page**
 
