@@ -33,7 +33,7 @@ A Power BI project focused on HR data for a company facing challenges in compreh
 
 
 **Dashboard Interaction**
--HR_Dashboard_image.png
+- HR_Dashboard_image.png
 
 **Conclusion**
 
